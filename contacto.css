@@ -1,0 +1,20 @@
+/* Estilos adicionales */
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+  }
+  
+  /* Estilos del formulario */
+  form {
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    padding: 20px;
+  }
+  
+  form label {
+    font-weight: bold;
+  }
+  
+  form button {
+    margin-top: 20px;
+  }
